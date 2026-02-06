@@ -1,12 +1,14 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Ahoj,+jsem+IT+Student;Tvořím+Weby;Kódím+v+Pythonu+a+C%23;Baví+mě+Unity" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Ahoj,+jmenuji+se+David!;Student+SPŠE+Ječná;Specializuji+se+na+moderní+weby;Programuji+v+C%23,+Pythonu;Vyvíjím+hry+v+Unity" alt="Typing SVG" />
   </a>
 
-  <h3>Web developer and software engineer</h3>
+  <h3> Web Developer & Software Engineer Student</h3>
   
-  <p>Vítejte na mém profilu! Jsem student SPŠE Ječná se zájmem o tvorbu moderních webů a softwarový vývoj.</p>
+  <p>Vítejte na mém profilu! Jsem student se zájmem o full-stack webový vývoj, softwarové inženýrství a herní design.</p>
+
+</div>
 
   ---
 
