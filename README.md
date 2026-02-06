@@ -8,7 +8,7 @@
   
   <p>Vítejte na mém profilu! Jsem student se zájmem o full-stack webový vývoj, softwarové inženýrství a herní design.</p>
 
-</div>
+
 
   ---
 
@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
   </p>
-
+</div>
   ---
 
   <div align="center">
