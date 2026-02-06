@@ -10,7 +10,7 @@
 
 
 
-  ---
+
 
   ### Web Development
   <p>
@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
   </p>
 </div>
-  ---
+
 
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=CadekDavid&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
