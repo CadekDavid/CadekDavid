@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Ahoj,+jmenuji+se+David!;Student+SPŠE+Ječná;Tvorba+moderních+webů;Programuji+Pythonu;Vyvíjím+hry+v+Unity" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Ahoj,+jmenuji+se+David!;Student+SPŠE+Ječná;Tvorba+moderních+webů;Programuji+v+Pythonu;Vyvíjím+hry+v+Unity" alt="Typing SVG" />
   </a>
 
   <h3> Web Developer & Software Engineer Student</h3>
